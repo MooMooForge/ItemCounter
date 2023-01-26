@@ -3,7 +3,7 @@ A script that displays the number of items you have placed in the game.
 
 ## Installation
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser if you haven't already
-2. Click on the following link to install the script: [MooMoo.io Item Counter]
+2. Click on the following link to install the script: [MooMoo.io Item Counter](https://github.com/MooMooForge/ItemCounter/releases/latest)
 3. Enjoy the game with the added convenience of knowing how many items you have placed at all times!
 
 ## Support
